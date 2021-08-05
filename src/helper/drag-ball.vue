@@ -118,7 +118,7 @@
     top: 70%;
     width: 64px;
     height: 64px;
-    background: url("../../../assets/report-list/drag2x.png");
+    background: url("../assets/drag2x.png");
     background-size: 100%;
     border-radius: 50%;
     overflow: hidden;
